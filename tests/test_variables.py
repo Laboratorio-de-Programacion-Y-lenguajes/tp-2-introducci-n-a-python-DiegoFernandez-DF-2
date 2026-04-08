@@ -1,5 +1,5 @@
-import pytest
-from src.variables import (
+import variables
+from variables import (
     crear_saludo,
     suma_enteros,
     es_mayor_de_edad,
