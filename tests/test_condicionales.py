@@ -1,5 +1,5 @@
 import pytest
-from src.condicionales import (
+from condicionales import (
     clasificar_numero,
     mayor_de_tres,
     clasificar_nota,
