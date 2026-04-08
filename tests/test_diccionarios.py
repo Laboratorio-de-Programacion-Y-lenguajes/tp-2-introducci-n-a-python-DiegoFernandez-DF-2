@@ -1,5 +1,5 @@
 import pytest
-from src.diccionarios import (
+from diccionarios import (
     contar_palabras,
     invertir_diccionario,
     merge_diccionarios,
