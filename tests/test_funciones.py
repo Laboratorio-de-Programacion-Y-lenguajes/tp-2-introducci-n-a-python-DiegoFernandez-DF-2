@@ -1,5 +1,5 @@
 import pytest
-from funciones import aplicar_funcion, componer, memoizar, reducir
+from src.funciones import aplicar_funcion, componer, memoizar, reducir
 
 
 def test_aplicar_funcion():

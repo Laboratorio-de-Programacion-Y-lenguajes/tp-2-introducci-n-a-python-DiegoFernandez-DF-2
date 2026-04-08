@@ -1,5 +1,5 @@
 import pytest
-from loops import (
+from src.loops import (
     contar_hasta,
     tabla_multiplicar,
     suma_digitos,
