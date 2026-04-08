@@ -1,5 +1,5 @@
 import pytest
-from src.operaciones import (
+from operaciones import (
     es_palindromo,
     capitalizar_palabras,
     contar_vocales,
