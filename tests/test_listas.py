@@ -1,5 +1,5 @@
 import pytest
-from src.listas import (
+from listas import (
     suma_lista,
     filtrar_pares,
     invertir_lista,
